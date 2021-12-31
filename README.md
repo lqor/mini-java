@@ -6,7 +6,7 @@ Mini Java unterstützt:
 * Alle oft vorkommende Konstruktionen (if..else, if...else if..., case... usw)
 * Variablen-Deklaration
 * Arrays (mit variabler Größe)
-* Threads (dazu unten mehr)
+* Threads
 ### Threads in MiniJava
 In letzter Woche haben wir den Interpreter und die Code-Generierung um Threading erweitert, sodass Pseudo-Parallelität in MiniJava-Programmen verwendet werden kann. 
 
